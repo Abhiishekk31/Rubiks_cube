@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${file_path}/${file_base_name}",
+      "args": [],
+      "cwd": "${file_path}",
+      "preLaunchTask": "build and run"
+    }
+  ]
+}
