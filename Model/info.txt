@@ -32,3 +32,19 @@ Store a Rubiks Cube
 Just use already declared 18 rotations
 
 
+## header file .h
+--HOW?
+--signature declaration
+
+##cpp file
+--WHAT?
+--- actual implementation
+
+##enum
+-- Data Type
+-- Option step for ex: color {r,g,b,...}
+
+
+
+
+
